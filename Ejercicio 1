@@ -1,0 +1,8 @@
+Algoritmo eje_1
+	Definir nombre Como Caracter
+	
+	Escribir "Ingrese un numero";
+	Leer num1;
+	
+	Escribir "El doble de ese numero es:",num1 * 2
+FinAlgoritmo
