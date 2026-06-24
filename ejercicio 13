@@ -1,0 +1,10 @@
+Algoritmo Ejercicio_13
+    Definir edad Como Entero
+    Escribir "Ingrese la edad de laura"
+    leer edad
+    Si (edad < 20) Entonces
+        Escribir "Laura no puede ser encuestada por ser menor de edad"
+    SiNo
+        Escribir "Laura puede ser encuestada"
+    FinSi
+FinAlgoritmo
