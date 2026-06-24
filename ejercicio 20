@@ -1,0 +1,5 @@
+Algoritmo contar_hasta_10_for
+	Para i <-1 hasta 10 Con Paso 2 Hacer
+		Escribir i
+	FinPara
+FinAlgoritmo
