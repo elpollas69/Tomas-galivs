@@ -1,0 +1,32 @@
+Algoritmo Ejercicio_14
+
+    Definir edad1, edad2, edad3 Como Entero
+
+    Escribir "Ingrese la edad de Heidy"
+    Leer edad1
+
+    Escribir "Ingrese la edad de Julian"
+    Leer edad2
+
+    Escribir "Ingrese la edad de Kevin"
+    Leer edad3
+
+    Si edad1 >= 20 Entonces
+        Escribir "Heidy puede votar"
+    SiNo
+        Escribir "Heidy pa la casa"
+    FinSi
+
+    Si edad2 >= 20 Entonces
+        Escribir "Julian puede votar"
+    SiNo
+        Escribir "Julian pa la casa"
+    FinSi
+
+    Si edad3 >= 20 Entonces
+        Escribir "Kevin puede votar"
+    SiNo
+        Escribir "Kevin pa la casa"
+    FinSi
+
+FinAlgoritmo
