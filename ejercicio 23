@@ -1,0 +1,8 @@
+ Algoritmo  ejercicio_23  
+	 Definir num, i Como Entero;
+	 Dimensionar num[5];
+  para i <- 1 hasta 5 con paso 1 hacer;
+		Escribir "ingrese el numero", i
+		Leer  num[1]
+ FinPara
+FinAlgoritmo
