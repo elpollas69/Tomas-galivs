@@ -1,0 +1,11 @@
+Ejercicio 6
+Algoritmo area_triangulo
+Definir a,b,c Como Real
+Escribir "Ingrese la altura"
+Leer a
+Escribir "Ingrese la base"
+Leer b
+c <- a*b
+c <- c/2
+Escribir "Resultado:", c
+FinAlgoritmo
